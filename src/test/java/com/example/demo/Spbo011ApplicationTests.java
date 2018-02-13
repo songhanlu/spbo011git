@@ -11,6 +11,7 @@ public class Spbo011ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println(122);
 	}
 
 }
