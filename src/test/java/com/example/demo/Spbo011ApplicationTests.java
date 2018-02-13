@@ -11,9 +11,7 @@ public class Spbo011ApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println(122);
-		System.out.println(111);
-		System.out.println("shl");
+		System.out.println("宋含露163");
 	}
 
 }
