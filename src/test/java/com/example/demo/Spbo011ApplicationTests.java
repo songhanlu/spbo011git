@@ -12,6 +12,7 @@ public class Spbo011ApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println(111);
+		System.out.println("shl");
 	}
 
 }
